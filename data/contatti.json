@@ -1,0 +1,16 @@
+{
+  "indirizzo": "Via Roma 123, Milano",
+  "email": "info@farei66.it",
+  "telefono": "+39 02 1234567",
+  "social": {
+    "facebook": "https://www.facebook.com/farei66",
+    "instagram": "https://www.instagram.com/farei66",
+    "tiktok": "https://www.tiktok.com/@farei66"
+  },
+  "orari": "Lun-Ven: 9:00-18:00",
+  "mappa": {
+    "lat": "45.4642", 
+    "lng": "9.1900",
+    "zoom": "15"
+  }
+}

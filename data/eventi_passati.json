@@ -1,0 +1,61 @@
+{
+  "eventi_passati": [
+    {
+      "id": "past1",
+      "titolo": "Festa di Primavera",
+      "data": "20 Marzo 2024",
+      "luogo": "Giardini Pubblici, Milano",
+      "immagine": "images/eventi/primavera-2024.jpg",
+      "galleria": "https://photos.google.com/album1",
+      "anno": "2024",
+      "immagini_anteprima": [
+        "images/eventi/primavera-2024-1.jpg",
+        "images/eventi/primavera-2024-2.jpg",
+        "images/eventi/primavera-2024-3.jpg",
+        "images/eventi/primavera-2024-4.jpg"
+      ]
+    },
+    {
+      "id": "past2",
+      "titolo": "Workshop Artistico",
+      "data": "15 Febbraio 2024",
+      "luogo": "Spazio Creativo, Milano",
+      "immagine": "images/eventi/workshop-2024.jpg",
+      "galleria": "https://photos.google.com/album2",
+      "anno": "2024",
+      "immagini_anteprima": [
+        "images/eventi/workshop-2024-1.jpg",
+        "images/eventi/workshop-2024-2.jpg",
+        "images/eventi/workshop-2024-3.jpg"
+      ]
+    },
+    {
+      "id": "past3",
+      "titolo": "Concerto Rock",
+      "data": "10 Gennaio 2024",
+      "luogo": "Music Hall, Milano",
+      "immagine": "images/eventi/concerto-2024.jpg",
+      "galleria": "https://photos.google.com/album3",
+      "anno": "2024",
+      "immagini_anteprima": [
+        "images/eventi/concerto-2024-1.jpg",
+        "images/eventi/concerto-2024-2.jpg",
+        "images/eventi/concerto-2024-3.jpg"
+      ]
+    },
+    {
+      "id": "past4",
+      "titolo": "Festa di Capodanno",
+      "data": "31 Dicembre 2023",
+      "luogo": "Grand Hotel, Milano",
+      "immagine": "images/eventi/capodanno-2023.jpg",
+      "galleria": "https://photos.google.com/album4",
+      "anno": "2023",
+      "immagini_anteprima": [
+        "images/eventi/capodanno-2023-1.jpg",
+        "images/eventi/capodanno-2023-2.jpg",
+        "images/eventi/capodanno-2023-3.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+/* footer.css - Stili specifici per il footer */
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 4rem 5% 2rem;
+  }
+  
+  .footer-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 3rem;
+    margin-bottom: 3rem;
+  }
+  
+  .footer-logo {
+    margin-bottom: 1.5rem;
+  }
+  
+  .footer-logo img {
+    height: 50px;
+  }
+  
+  .footer-description {
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  
+  .footer-section h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .footer-section h3::after {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background-color: var(--primary-green);
+    bottom: -10px;
+    left: 0;
+  }
+  
+  /* Stili per i contatti nel footer */
+  .contact-info {
+    margin-bottom: 1.5rem;
+  }
+  
+  .contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .contact-icon {
+    margin-right: 1rem;
+    color: var(--primary-green);
+  }
+  
+  /* Stili per i link nel footer */
+  .footer-links ul {
+    list-style: none;
+  }
+  
+  .footer-links ul li {
+    margin-bottom: 0.8rem;
+  }
+  
+  .footer-links ul li a {
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  .footer-links ul li a:hover {
+    color: var(--primary-green);
+    padding-left: 5px;
+  }
+  
+  /* Stili per le icone social nel footer */
+  .social-icons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .social-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    transition: all 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    background-color: var(--primary-green);
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  }
+  
+  .social-icon[aria-label="Facebook"]:hover {
+    background-color: #4267B2;
+  }
+  
+  .social-icon[aria-label="Instagram"]:hover {
+    background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);
+  }
+  
+  .social-icon[aria-label="TikTok"]:hover {
+    background: linear-gradient(to right, #25F4EE, #000000, #FE2C55);
+  }
+  
+  /* Stili per il copyright */
+  .copyright {
+    text-align: center;
+    padding-top: 2rem;
+    border-top: 1px solid #333;
+  }

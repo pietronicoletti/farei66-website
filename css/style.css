@@ -1,0 +1,11 @@
+/* style.css - File CSS principale */
+
+/* Import dei file CSS separati */
+@import 'base.css';
+@import 'header.css';
+@import 'footer.css';
+@import 'hero.css';
+@import 'events.css';
+@import 'about.css';
+@import 'contact.css';
+@import 'responsive.css'; /* Sempre per ultimo per sovrascrivere stili precedenti */

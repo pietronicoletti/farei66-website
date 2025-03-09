@@ -1,0 +1,48 @@
+{
+    "eventi_futuri": [
+      {
+        "id": "evento1",
+        "titolo": "Summer Party 2025",
+        "data": "15 Marzo 2025",
+        "ora": "21:00 - 04:00",
+        "luogo": "Beach Club, Milano Marittima",
+        "indirizzo": "Via del Mare 45, Milano Marittima (RA)",
+        "descrizione": "Una serata indimenticabile con musica, cibo e divertimento in una location esclusiva sul mare. DJ set con artisti nazionali e internazionali, area food & drink e molto altro.",
+        "immagine": "../images/foto1.png",
+        "link_biglietti": "https://example.com/tickets/summer-party"
+      },
+      {
+        "id": "evento2",
+        "titolo": "Festival Musicale",
+        "data": "22 Aprile 2025",
+        "ora": "16:00 - 23:00",
+        "luogo": "Parco Cittadino, Bologna",
+        "indirizzo": "Via del Parco 10, Bologna",
+        "descrizione": "Un festival con i migliori artisti emergenti e band locali, in una giornata di pura energia. Un'esperienza musicale unica con diversi generi e aree tematiche.",
+        "immagine": "../images/foto1.png",
+        "link_biglietti": "https://example.com/tickets/festival-musicale"
+      },
+      {
+        "id": "evento3",
+        "titolo": "Workshop Creativo",
+        "data": "5 Maggio 2025",
+        "ora": "10:00 - 17:00",
+        "luogo": "Creative Hub, Milano",
+        "indirizzo": "Via Creativa 78, Milano",
+        "descrizione": "Impara nuove competenze artistiche e incontra altri giovani talenti in questo workshop esclusivo. Workshop di fotografia, design, pittura e molto altro con professionisti del settore.",
+        "immagine": "../images/foto1.png",
+        "link_biglietti": "https://example.com/tickets/workshop-creativo"
+      },
+      {
+        "id": "evento4",
+        "titolo": "Workshop Creativo",
+        "data": "5 Maggio 2025",
+        "ora": "10:00 - 17:00",
+        "luogo": "Creative Hub, Milano",
+        "indirizzo": "Via Creativa 78, Milano",
+        "descrizione": "Impara nuove competenze artistiche e incontra altri giovani talenti in questo workshop esclusivo. Workshop di fotografia, design, pittura e molto altro con professionisti del settore.",
+        "immagine": "../images/foto1.png",
+        "link_biglietti": "https://example.com/tickets/workshop-creativo"
+      }
+    ]
+  }
